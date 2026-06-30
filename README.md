@@ -2,7 +2,6 @@
 
 Frontend Mentor Challenge - Calculator with 3 Themes.
 
-![Preview](design/desktop-design.jpg)
 
 ## Technologies Used
 - HTML5
