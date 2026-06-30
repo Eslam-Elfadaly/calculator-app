@@ -16,4 +16,4 @@ Frontend Mentor Challenge - Calculator with 3 Themes.
 - Theme saved in localStorage
 - Clean and modern UI
 
-- Live Demo : calculator-app-lac-eta.vercel.app
+- Live Demo : https://calculator-app-lac-eta.vercel.app
